@@ -1,0 +1,10 @@
+body {
+    background-image: url('./assets/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display:grid;
+    align-items: center;
+    justify-content: center;
+    height:100vh;
+}
