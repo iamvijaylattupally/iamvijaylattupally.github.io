@@ -140,7 +140,6 @@ img{
     display:flex;
     flex-direction: column;
     justify-content: center;
-    margin:0;
     padding-left: 5px;
     padding-right: 5px;;
 }
